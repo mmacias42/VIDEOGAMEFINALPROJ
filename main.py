@@ -1,3 +1,13 @@
+###SOURCES###
+#https://www.geeksforgeeks.org/how-to-set-up-the-game-loop-in-pyggame/
+#https://www.pygame.org/docs/tut/newbieguide.html
+#https://realpython.com/arcade-python-game-framework/
+#https://www.youtube.com/watch?v=jO6qQDNa2UY
+#https://careerkarma.com/blog/python-if-else/
+#https://stackabuse.com/getting-user-input-in-python/
+#https://www.geeksforgeeks.org/collision-detection-in-pygame/
+#Mr. Cozort's foundational code
+
 import pygame as pg
 from pygame.sprite import Sprite
 import random
